@@ -3,3 +3,4 @@ df -h
 cal
 pwd
 date
+ls
